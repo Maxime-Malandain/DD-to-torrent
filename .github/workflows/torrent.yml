@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Android Studio and SDK Tools"
-  comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  name: "LOTR"
+  comment: "4k 130GB"
+  url: "https://torrentio.strem.fun/realdebrid/SUIOZGDEAHUJYNGNWOGTOSNGZ2YM3RMNU33YRYR7DS6CSFLD2S2A/89c20edd5a121b781ecdff574b1048be303b88c3/null/1/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.EXTEND"
+  file_name: "LOTR.mkv"
+  piece_size: 24 # Check the README.md for recommended piece size
       
 jobs:
   create:
